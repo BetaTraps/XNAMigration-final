@@ -1,0 +1,103 @@
+C:\Users\David\OneDrive\Documents\Visual Studio 2013\Projects\XNAMigration\XNAMigration\XNAMigration\obj\x86\Debug\XNAMigration.csprojResolveAssemblyReference.cache
+C:\Users\David\OneDrive\Documents\Visual Studio 2013\Projects\XNAMigration\XNAMigration\XNAMigration\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\OneDrive\Documents\Visual Studio 2013\Projects\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\XNAMigration.exe
+C:\Users\David\OneDrive\Documents\Visual Studio 2013\Projects\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\XNAMigration.pdb
+C:\Users\David\OneDrive\Documents\Visual Studio 2013\Projects\XNAMigration\XNAMigration\XNAMigration\obj\x86\Debug\XNAMigration.exe
+C:\Users\David\OneDrive\Documents\Visual Studio 2013\Projects\XNAMigration\XNAMigration\XNAMigration\obj\x86\Debug\XNAMigration.pdb
+C:\Users\David\OneDrive\Documents\Visual Studio 2013\Projects\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuCelebrate.xnb
+C:\Users\David\OneDrive\Documents\Visual Studio 2013\Projects\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuDamageDeath.xnb
+C:\Users\David\OneDrive\Documents\Visual Studio 2013\Projects\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuIdle.xnb
+C:\Users\David\OneDrive\Documents\Visual Studio 2013\Projects\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuJump.xnb
+C:\Users\David\OneDrive\Documents\Visual Studio 2013\Projects\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuWalk.xnb
+C:\Users\David\OneDrive\Documents\Visual Studio 2013\Projects\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuYell.xnb
+C:\Users\David\OneDrive\Documents\Visual Studio 2013\Projects\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuCelebrate.png
+C:\Users\David\OneDrive\Documents\Visual Studio 2013\Projects\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuDamageDeath.png
+C:\Users\David\OneDrive\Documents\Visual Studio 2013\Projects\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuIdle.png
+C:\Users\David\OneDrive\Documents\Visual Studio 2013\Projects\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuJump.png
+C:\Users\David\OneDrive\Documents\Visual Studio 2013\Projects\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuWalk.png
+C:\Users\David\OneDrive\Documents\Visual Studio 2013\Projects\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuYell.png
+C:\Users\David\OneDrive\Documents\Visual Studio 2013\Projects\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\level1.txt
+F:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuCelebrate.xnb
+F:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuDamageDeath.xnb
+F:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuIdle.xnb
+F:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuJump.xnb
+F:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuWalk.xnb
+F:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuYell.xnb
+F:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuCelebrate.png
+F:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuDamageDeath.png
+F:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuIdle.png
+F:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuJump.png
+F:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuWalk.png
+F:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuYell.png
+F:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\XNAMigration.exe
+F:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\XNAMigration.pdb
+F:\XNAMigration\XNAMigration\XNAMigration\obj\x86\Debug\XNAMigration.csprojResolveAssemblyReference.cache
+F:\XNAMigration\XNAMigration\XNAMigration\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\XNAMigration\XNAMigration\XNAMigration\obj\x86\Debug\XNAMigration.exe
+F:\XNAMigration\XNAMigration\XNAMigration\obj\x86\Debug\XNAMigration.pdb
+E:\XNAMigration\XNAMigration\XNAMigration\obj\x86\Debug\XNAMigration.csprojResolveAssemblyReference.cache
+E:\XNAMigration\XNAMigration\XNAMigration\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\XNAMigration\XNAMigration\XNAMigration\obj\x86\Debug\XNAMigration.exe
+E:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuCelebrate.xnb
+E:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuDamageDeath.xnb
+E:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuIdle.xnb
+E:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuJump.xnb
+E:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuWalk.xnb
+E:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuYell.xnb
+E:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuCelebrate.png
+E:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuDamageDeath.png
+E:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuIdle.png
+E:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuJump.png
+E:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuWalk.png
+E:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuYell.png
+E:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\XNAMigration.exe
+E:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\XNAMigration.pdb
+E:\XNAMigration\XNAMigration\XNAMigration\obj\x86\Debug\XNAMigration.pdb
+E:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\Tile1.xnb
+E:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\Tile2.xnb
+E:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\Tile3.xnb
+E:\XNAMigration\XNAMigration\XNAMigration\bin\x86\Debug\Content\Tile4.xnb
+E:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuCelebrate.xnb
+E:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuDamageDeath.xnb
+E:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuIdle.xnb
+E:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuJump.xnb
+E:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuWalk.xnb
+E:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuYell.xnb
+E:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\Tile1.xnb
+E:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\Tile2.xnb
+E:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\Tile3.xnb
+E:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\Tile4.xnb
+E:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuCelebrate.png
+E:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuDamageDeath.png
+E:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuIdle.png
+E:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuJump.png
+E:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuWalk.png
+E:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuYell.png
+E:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\XNAMigration.exe
+E:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\XNAMigration.pdb
+E:\XNAMigration-final\XNAMigration\XNAMigration\obj\x86\Debug\XNAMigration.csprojResolveAssemblyReference.cache
+E:\XNAMigration-final\XNAMigration\XNAMigration\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\XNAMigration-final\XNAMigration\XNAMigration\obj\x86\Debug\XNAMigration.exe
+E:\XNAMigration-final\XNAMigration\XNAMigration\obj\x86\Debug\XNAMigration.pdb
+G:\XNAMigration-final\XNAMigration\XNAMigration\obj\x86\Debug\XNAMigration.exe
+G:\XNAMigration-final\XNAMigration\XNAMigration\obj\x86\Debug\XNAMigration.pdb
+G:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuCelebrate.xnb
+G:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuDamageDeath.xnb
+G:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuIdle.xnb
+G:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuJump.xnb
+G:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuWalk.xnb
+G:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuYell.xnb
+G:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\Tile1.xnb
+G:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\Tile2.xnb
+G:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\Tile3.xnb
+G:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\Tile4.xnb
+G:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuCelebrate.png
+G:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuDamageDeath.png
+G:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuIdle.png
+G:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuJump.png
+G:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuWalk.png
+G:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\Content\mikuYell.png
+G:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\XNAMigration.exe
+G:\XNAMigration-final\XNAMigration\XNAMigration\bin\x86\Debug\XNAMigration.pdb
+G:\XNAMigration-final\XNAMigration\XNAMigration\obj\x86\Debug\XNAMigration.csprojResolveAssemblyReference.cache
+G:\XNAMigration-final\XNAMigration\XNAMigration\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt

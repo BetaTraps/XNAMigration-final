@@ -1,0 +1,5 @@
+C:\Users\David\OneDrive\Documents\Visual Studio 2013\Projects\XNAMigration\XNAMigration\XNAMigrationContent\obj\x86\Debug\XNAMigrationContent.contentprojResolveAssemblyReference.cache
+F:\XNAMigration\XNAMigration\XNAMigrationContent\obj\x86\Debug\XNAMigrationContent.contentprojResolveAssemblyReference.cache
+E:\XNAMigration\XNAMigration\XNAMigrationContent\obj\x86\Debug\XNAMigrationContent.contentprojResolveAssemblyReference.cache
+E:\XNAMigration-final\XNAMigration\XNAMigrationContent\obj\x86\Debug\XNAMigrationContent.contentprojResolveAssemblyReference.cache
+G:\XNAMigration-final\XNAMigration\XNAMigrationContent\obj\x86\Debug\XNAMigrationContent.contentprojResolveAssemblyReference.cache
